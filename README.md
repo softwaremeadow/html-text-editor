@@ -14,7 +14,9 @@ The HTML text editor has been designed using the Model View Controller design pa
 # Setup
 
 # Features
-
+* Menu Helper Class:
+  * Initializes the menu
+  * 
 
 # Status
 I have completed writing my HTML text editor.
