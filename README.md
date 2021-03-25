@@ -14,9 +14,22 @@ The HTML text editor has been designed using the Model View Controller design pa
 # Setup
 
 # Features
-* Menu Helper Class:
-  * Initializes the menu
-  * 
+* HTML tab
+ * This is where the user can edit the HTML visually
+ * Users can format and edit the text of a page
+ * Renders the HTML page.
+* Plain Text tab 
+ * This is where the user can type HTML code
+ * Users can edit HTML as text in this tab
+ * This tab will display the HTML tags and their contents
+* Menu Bar
+ * File Menu 
+ * Edit Menu
+ * Style Menu
+ * Align Menu
+ * Color Menu
+ * Font Menu
+ * Help Menu
 
 # Status
 I have completed writing my HTML text editor.
