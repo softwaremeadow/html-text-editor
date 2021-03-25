@@ -15,8 +15,8 @@ The HTML text editor has been designed using the Model View Controller design pa
 
 # Features
 * HTML tab
- * This is where the user can edit the HTML visually
- * Users can format and edit the text of a page
+ *This is where the user can edit the HTML visually
+* *Users can format and edit the text of a page
  * Renders the HTML page.
 * Plain Text tab 
  * This is where the user can type HTML code
