@@ -48,8 +48,8 @@ This is an HTML text editor created in Java. The HTML text editor consists of an
     * Right Menu Item: Allows the user to align the selected content to the right
   * Color Menu: Contains menu items for the colors red, orange, yellow, green, blue, cyan, magenta, and black. When a user clicks on a color menu item, the selected foreground color changes to the selected color.
   * Font Menu
-   * Font Style Menu: This menu contains menu items for the font styles Sans Serif, Serif, Monospaced, Dialog, and Dialog Input. When a user clicks on a on a font style, the program changes the current font of the selected text to the selected font.
-   * Font Size Menu: This menu contains menu items for various font sizes. When a user clicks on a font size, the program changes the current size of the selected text to the selected size.
+    * Font Style Menu: This menu contains menu items for the font styles Sans Serif, Serif, Monospaced, Dialog, and Dialog Input. When a user clicks on a on a font style, the program changes the current font of the selected text to the selected font.
+    * Font Size Menu: This menu contains menu items for various font sizes. When a user clicks on a font size, the program changes the current size of the selected text to the selected size.
   * Help Menu
     * About Menu Item: Displays a window with information about the HTML editor
 
