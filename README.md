@@ -1,10 +1,12 @@
 # HTML Text Editor
 
+# General Info 
 This is an HTML text editor created in Java. The HTML text editor consists of an HTML tab pane and a plane text tab pane as well as a file, edit, style, align, color, font, and help benu bars. 
 
-# General Info 
-
 # Screenshots 
+![Screenshot from 2021-06-25 15-11-12](https://user-images.githubusercontent.com/49923044/123474324-caa5be00-d5c7-11eb-915e-3f6330a6398f.png)
+![Screenshot from 2021-06-25 15-11-42](https://user-images.githubusercontent.com/49923044/123474335-cf6a7200-d5c7-11eb-842a-902d2b828181.png)
+![Screenshot from 2021-06-25 15-11-52](https://user-images.githubusercontent.com/49923044/123474346-d2656280-d5c7-11eb-9ab5-77a06c454e08.png)
 
 # Technologies
 1) Java programming language
